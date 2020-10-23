@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: 0192
+# key: tdn
+# type: command
+# --
+(ejr)(insert " ")(dpr)(insert " ")(ttj)

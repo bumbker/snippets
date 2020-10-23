@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: 0188
+# key: tkk
+# --
+border:2px solid $0;

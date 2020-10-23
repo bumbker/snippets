@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: ldwbel
+# key: ldwbel
+# type: command
+# --
+(progn (load-file "~/.emacs.d/customizations/web.el"))

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: 0149
+# key: tfd
+# --
+<pre>
+  $0
+</pre>

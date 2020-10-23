@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: tpd
+# key: tpd
+# --
+name="$0"

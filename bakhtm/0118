@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: 0118
+# key: ttk
+# --
+<main>$0</main>

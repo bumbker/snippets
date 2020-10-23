@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: 0194
+# key: tdf
+# --
+class="$0"

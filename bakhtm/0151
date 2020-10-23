@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: 0151
+# key: tgt
+# --
+font-family: $0;

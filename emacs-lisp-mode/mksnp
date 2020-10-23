@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: mksnp
+# key: mksnp
+# --
+(yas-define-snippets 'emacs-lisp-mode '( $1("" ()) $0))

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: 0122
+# key: tnn
+# --
+<img src="https://www.$1.com/$2.jpg" alt="$0">

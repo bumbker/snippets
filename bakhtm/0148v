@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: 0148v
+# key: tfkv
+# --
+font-size: $0%;

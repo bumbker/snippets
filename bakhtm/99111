@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: 99111
+# key: ddttt
+# type: command
+# --
+(delete-char -1)
+(end-of-line)
+(newline)
+(indent-for-tab-command)
+(insert "<h1></h1>")
+(backward-char 5)

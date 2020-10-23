@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: 0139
+# key: tmd
+# --
+<button>$0</button>

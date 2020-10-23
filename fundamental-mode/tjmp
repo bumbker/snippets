@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: tjmp
+# key: tjmp
+# --
+("$1" (list ($2)($3))) $0

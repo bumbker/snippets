@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: 0152
+# key: tgn
+# --
+text-align:$0;

@@ -1,0 +1,17 @@
+# -*- mode: snippet -*-
+# name: ldsnps
+# key: ldsnps
+# type: command
+# --
+(load "ftop.el") 
+(load "fcont.el") 
+(load "fjumps.el") 
+(load "fmain.el") 
+(load "stop.el") 
+(load "scont.el") 
+(load "sjumps.el") 
+(load "smain.el")
+(load "sreynolds.el") 
+(load "otpl.el") 
+(load "cc.el") 
+(load "rj-functions.el")

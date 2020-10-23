@@ -1,0 +1,14 @@
+# -*- mode: snippet -*-
+# name: ddsnip
+# key: ddsnip
+# --
+# -*- mode: snippet -*-
+# name: dd$0
+# key: dd
+# --
+(delete-char -1)
+(end-of-line)
+(newline)
+(indent-for-tab-command)
+(insert " ")
+(backward-char )

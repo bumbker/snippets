@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: 0120
+# key: tnp
+# --
+src="$0"

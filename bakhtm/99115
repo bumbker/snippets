@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: 99115
+# key: ddttg
+# type: command
+# --
+(delete-char -1)
+(end-of-line)
+(newline)
+(indent-for-tab-command)
+(insert "<h5></h5>")
+(backward-char 5)

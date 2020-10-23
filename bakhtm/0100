@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: tpp
+# key: tpp
+# --
+<!DOCTYPE html>
+
+$0

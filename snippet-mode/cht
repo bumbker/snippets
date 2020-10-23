@@ -1,0 +1,17 @@
+# -*- mode: snippet -*-
+# name: cht
+# key: cht
+# --
+tln (forward-line )
+tlm (forward-word )
+tlf (forward-char )
+tlg (backward-char )
+tls (insert )
+tlsq \"\")
+tll (newline )
+tlk (beginning-of-line )
+tld (end-of-line )
+tkp (delete-char -1)
+tkt (indent-for-tab-command )
+tkn (next-line )
+tkm \\\"\\\"

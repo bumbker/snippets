@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: 99141
+# key: ddtft
+# type: command
+# --
+(delete-char -1)
+(end-of-line)
+(newline)
+(indent-for-tab-command)
+(insert "<li></li>")
+(backward-char 5)

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: addsnp
+# key: addsnp
+# --
+("$1" (list $0)) 

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: fnfn
+# key: fnfn
+# --
+(defun $1 () (insert "($2 )") (backward-char 1)) $0

@@ -1,0 +1,21 @@
+# -*- mode: snippet -*-
+# name: mkjmps
+# key: mkjmps
+# --
+;;;
+("kt$1" (list (ktj) ($2)))
+("kn$3" (list (knr) ($4)))
+("km$5" (list (kmr) ($6)))
+("kf$7" (list (kfj) ($8)))
+("kg$9" (list (kgj) ($10)))
+("ks$11" (list (ksj) ($12)))
+("kp$13" (list (kpr) ($14)))
+("dp$15" (list (dpr) ($16)))
+("dt$17" (list (dtj) ($18)))
+("dn$19" (list (dnr) ($20)))
+("dm$21" (list (dmr) ($22)))
+("df$23" (list (dfj) ($24)))
+("dg$25" (list (dgj) ($26)))
+("ds$27" (list (dsj) ($28)))
+("dp$29" (list (dpr) ($0)))
+;;;

@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: 18143
+# key: tktfm
+# type: command
+# --
+(backward-char 1)
+(insert " style=\"\"")
+(backward-char 1)

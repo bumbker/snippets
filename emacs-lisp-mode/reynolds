@@ -1,0 +1,23 @@
+# -*- mode: snippet -*-
+# name: reynolds
+# key: reynolds
+# --
+tpr prakk 
+ttj (delete-char -1)(end-of-line)(cider-eval-last-sexp)
+tnr (delete-char -1)(delete-window)
+tmr (delete-char -1) (delete-other-windows))
+tfj (fundamental-mode))
+tgj (insert "(print (shuffle (range )))") (backward-char 3))
+tsj (delete-char -1)(search-forward ")"))
+tlr (backward-kill-word 1) 
+tkr (delete-char -1 ) (other-window 1))
+tdj (org-shifttab)
+npr (org-insert-todo-heading 1))
+bnf (progn (beginning-of-line)(kill-line )(next-line 2)(recenter-top-bottom 2)(next-line 2)))
+bng (delete-char -1) (next-line -2) (beginning-of-line ) (kill-line 2) (next-line 2)
+    (newline 2) (recenter 1) (next-line 2))
+ntj (delete-char -1) (end-of-line)(cider-insert-last-sexp-in-repl))
+nnr (delete-char -1)(end-of-line) (insert ")"))
+nfj (beginning-of-line)
+ngj (beginning-of-line)(kill-line))
+nsj (rj-mode))

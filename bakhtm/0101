@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: tpt
+# key: tpt
+# --
+<html>
+  $0
+
+</html>

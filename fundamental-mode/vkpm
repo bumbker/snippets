@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: vkpm
+# key: vkpm
+# type: command
+# --
+(emacs-lisp-mode)

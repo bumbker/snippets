@@ -1,0 +1,13 @@
+# -*- mode: snippet -*-
+# name: ordilist
+# key: ordilist
+# --
+
+tpp (str ) tpt (if ) tpn (do ) tpm (println )
+tpf (when ) tpg (nil? ) tps (or ) tpl (= )
+tpk (and ) tpd (def ) ttp (defn ) ttt !!! 
+ttn (hash-map ) ttm (get ) ttf (get-in ) ttg (vector )
+tts (conj ) ttl (nth ) ttk (list ) ttd (hash-set )
+tnp (set ) tnt (contains? ) tnn error-message  tnm (first )
+tnf (last )
+

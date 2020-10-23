@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: pylist
+# key: pylist
+# --
+>>> import random
+
+>>> lis = range(100,162)
+
+>>> random.shuffle(lis)
+>>> lis

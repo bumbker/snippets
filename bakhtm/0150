@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: 0150
+# key: tgp
+# --
+background-color:$0;

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: 0197
+# key: tdl
+# --
+text-decoration: $0;

@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: tksnip
+# key: tksnip
+# --
+# -*- mode: snippet -*-
+# name: tk$0
+# key: tk
+# --
+(backward-char 1)
+(insert " ")
+(backward-char 1)

@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: vkttz
+# key: vkttz
+# type: command
+# --
+(progn (load-file "~/.emacs.d/customizations/b.el")
+                      (load-file "~/.emacs.d/customizations/c.el")
+                      (load-file "~/.emacs.d/customizations/special-snippets.el")))

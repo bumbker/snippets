@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: dfsnp
+# key: dfsnp
+# --
+(yas-define-snippets 'emacs-lisp-mode 
+'(
+ $0
+ ))

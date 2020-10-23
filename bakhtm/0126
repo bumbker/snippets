@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: 0126
+# key: tns
+# --
+<a href="#$1">$0</a>

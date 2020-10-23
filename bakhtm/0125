@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: 0125
+# key: tng
+# --
+href="https://$0"

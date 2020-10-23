@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: tpn
+# key: tpn
+# --
+<head>
+  $0
+</head>

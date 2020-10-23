@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: 0165v
+# key: tsgv
+# --
+<div>
+$0
+</div>

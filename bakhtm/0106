@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: tps
+# key: tps
+# --
+<abbr>$0</abbr>

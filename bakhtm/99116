@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: 99116
+# key: ddtts
+# type: command
+# --
+(delete-char -1)
+(end-of-line)
+(newline)
+(indent-for-tab-command)
+(insert "<h6></h6>")
+(backward-char 5)

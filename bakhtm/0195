@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: 0195
+# key: tdg
+# --
+a:link {
+  color: green; $0
+  background-color: transparent; 
+  text-decoration: underline;
+  font-size: 122%;
+}

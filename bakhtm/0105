@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: tpg
+# key: tpg
+# --
+<body>
+  $0
+</body>

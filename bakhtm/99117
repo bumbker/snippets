@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: 99117
+# key: ddttl
+# type: command
+# --
+(delete-char -1)
+(end-of-line)
+(newline)
+(indent-for-tab-command)
+(insert "<p></p>")
+(backward-char 4)

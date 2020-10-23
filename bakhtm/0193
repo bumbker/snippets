@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: 0193
+# key: tdm
+# --
+padding: $0px;

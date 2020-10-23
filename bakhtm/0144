@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: 0144
+# key: tff
+# --
+color: $0;

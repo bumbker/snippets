@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: 0121v
+# key: tntv
+# --
+<img src="https://www.$1" alt="$0">

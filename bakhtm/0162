@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: 0162
+# key: tsn
+# --
+<blockquote>
+  $0
+</blockquote>

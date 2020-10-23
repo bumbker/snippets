@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: 99112
+# key: ddttn
+# type: command
+# --
+(delete-char -1)
+(end-of-line)
+(newline)
+(indent-for-tab-command)
+(insert "<h2></h2>")
+(backward-char 5)

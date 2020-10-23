@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: 0124
+# key: tnf
+# --
+<a href="https://www.$0/"></a>

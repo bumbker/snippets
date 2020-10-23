@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: tktfl
+# key: tktfl
+# type: command
+# --
+(backward-char 1)
+(insert " title=\"\"")
+(backward-char 1)
